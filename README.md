@@ -28,9 +28,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library -  pandas  version  1.4.3
+- library -  numpy  version  1.21.5
+- library -  seaborn  version  0.11.2
+- library -  re  version  2.2.1
+- library -  matplotlib  version  3.5.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
