@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study - EDA
+This is part of EDA demonstartion on a lending club data where we are tasked in identifying the factors which could be red flags for applicants likely to default on re-payment.
 
 
 ## Table of Contents
@@ -8,50 +8,32 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a
+return. Once the company has decided to approve the loan request, there is a certain risk taken whether it would be successfully returned or the applicant will default. 
+- We are tasked here in identifying the factors which might help in identifying factors which lead for borrowers to default or charge-off. 
+- If the lending club can identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case
+- Dataset used here for the applications received by the lending club which has information relating to loan, along with other characterstics associated with applicant background.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Identified factors which can trigger a loan applicant which is likely to be charged off without compromising on good applications
 
 
 ## Technologies Used
-- library -  pandas  version  1.4.3
-- library -  numpy  version  1.21.5
-- library -  seaborn  version  0.11.2
-- library -  re  version  2.2.1
-- library -  matplotlib  version  3.5.2
+- pandas  version  1.4.3
+- numpy  version  1.21.5
+- seaborn  version  0.11.2
+- re  version  2.2.1
+- matplotlib  version  3.5.2
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Charan Hulmani
+- Mukul Vashisth
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project --># LendingClubCaseStudy
 # LendingClubCaseStudy
 # LendingClubCaseStudy
 # LendingClubCaseStudy
